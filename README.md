@@ -2,9 +2,11 @@
 
 使用 LaTeX TikZ 绘制用于练习硬笔书法的米字格纸张(A4纸)
 
+![preview](./mizige.jpg)
+
 ## 下载
 
-在 Release 页面下载
+[下载pdf](https://github.com/clysto/mizige/releases/download/v1.0/mizige.pdf)
 
 ## 编译
 
